@@ -1,0 +1,9 @@
+{
+  "name": "roughcut-studio",
+  "version": "1.0.0",
+  "description": "Offline Premiere Pro UXP plugin for sequence backup, silence/retake cutting, and B-roll beat placement",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "ccx": "node scripts/package-ccx.js"
+  }
+}
